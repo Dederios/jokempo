@@ -8,3 +8,11 @@ Dia 1 - Onde tudo começa:
 - Exercício 02 - Crie o HTML do cabeçalho
 - Exercício 03 - Estruture o HTML
 - Exercício 04 - Projeto no GitHub
+
+Dia 2 - Dando vida ao projeto
+- Exercício 01 - Criar HTML da seção
+- Exercício 02 - Base do CSS
+- Exercício 03 - Primeiro componente
+- Exercício 04 - Componente simple-action
+- Exercício 05 - Componente primary-button
+- Exercício 06 - Primeiro container
