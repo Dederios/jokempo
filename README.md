@@ -16,3 +16,4 @@ Dia 2 - Dando vida ao projeto
 - Exercício 04 - Componente simple-action
 - Exercício 05 - Componente primary-button
 - Exercício 06 - Primeiro container
+- Exercício 07 - Container main-menu
