@@ -23,3 +23,5 @@ Dia 03 - Treinando HTML e CSS
 - Exercício 02 - Arrume container main-header
 - Exercício 03 - Finalize HTML da seção
 - Exercício 04 - Crie o componente simple-title
+- Exercício 05 - Crie o componente simple-subtitle
+
