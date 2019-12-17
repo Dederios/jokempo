@@ -17,3 +17,8 @@ Dia 2 - Dando vida ao projeto
 - Exercício 05 - Componente primary-button
 - Exercício 06 - Primeiro container
 - Exercício 07 - Container main-menu
+
+Dia 03 - Treinando HTML e CSS
+- Exercício 01 - Cross Browser com reset CSS
+- Exercício 02 - Arrume container main-header
+- Exercício 03 - Finalize HTML da seção
