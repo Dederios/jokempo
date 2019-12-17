@@ -22,3 +22,4 @@ Dia 03 - Treinando HTML e CSS
 - Exercício 01 - Cross Browser com reset CSS
 - Exercício 02 - Arrume container main-header
 - Exercício 03 - Finalize HTML da seção
+- Exercício 04 - Crie o componente simple-title
