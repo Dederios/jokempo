@@ -6,3 +6,8 @@
     font-weight: bold;
     border-radius: 4px;
 }
+
+.primary-button.-dark {
+    color: var(--color-base);
+    font-family: 'Bitter', serif;
+}
