@@ -24,4 +24,6 @@ Dia 03 - Treinando HTML e CSS
 - Exercício 03 - Finalize HTML da seção
 - Exercício 04 - Crie o componente simple-title
 - Exercício 05 - Crie o componente simple-subtitle
-
+- Exercício 06 - Primeira variação do componente
+- Exercício 07 - Variação do componente simple-action
+- Exercício 08 - Criar container main-stage
