@@ -1,4 +1,4 @@
-Projeto do Mini curso de HTML, CSS e JavaScript, relizado pela collabcode de 9 a 13 de Dezembro, em aulas free e ao vivo na twitch.tv/marcobrunobr.
+Projeto do Mini curso de HTML, CSS e JavaScript, relizado pela collabcode de 9 a 13 de Dezembro, em aulas gratuitas e ao vivo no twitch.tv/marcobrunobr
 
 Ebook gratuito do curso: http://bit.ly/ebook-curso-html-css-javascript
 
