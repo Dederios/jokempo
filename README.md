@@ -1,4 +1,4 @@
-Projeto do Mini curso de HTML, CSS e JavaScript, relizado pela CollabCode, em aulas gratuitas e ao vivo no twitch.tv/marcobrunobr
+Projeto do Mini curso de HTML, CSS e JavaScript, relizado pela CollabCode, em aulas gratuitas e ao vivo em twitch.tv/marcobrunobr
 
 Dia 1 - Onde tudo começa: 
 - Exercício 00 - Prepare o ambiente
