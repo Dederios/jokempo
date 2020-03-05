@@ -6,4 +6,4 @@ Dia 2 - Dando vida ao projeto
 
 Dia 03 - Treinando HTML e CSS
 
-(Descontinuado)
+(Projeto Descontinuado)
